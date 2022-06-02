@@ -2,15 +2,15 @@
 
 Deploy script in local
 ```
-npx run scripts/deploy
+npx hardhat run scripts/deploy
 ```
 
 Deploy script in Kovan
 ```
-npx run scripts/deploy --network kovan
+npx hardhat run scripts/deploy --network kovan
 ```
 
 Deploy script in Rinkeby
 ```
-npx run scripts/deploy --network rinkeby
+npx hardhat run scripts/deploy --network rinkeby
 ```
